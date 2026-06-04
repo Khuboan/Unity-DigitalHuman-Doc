@@ -44,7 +44,7 @@ https://github.com/k2-fsa/sherpa-onnx
 
 ​	2.御姐音: sherpa-onnx-vits-zh-ll  ID:0
 
-​	3.大叔音: kokoro-multi-lang-v1_1  ID:132
+​	3.大叔音: kokoro-multi-lang-v1_1  ID:102
 
 ​	4.男青年: sherpa-onnx-vits-zh-ll  ID:4
 
@@ -155,6 +155,10 @@ https://cloud.siliconflow.cn/i/psmQ8Adt
 [Charaecter Creater制作数字人和导出到unity_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qRqBYgEdx/?spm_id_from=333.1387.favlist.content.click&vd_source=cae5be50cf165d6b7a9ca9bf393cb773)
 
 [人工智能连接虚拟数字人、 Unity 教程（convai）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17eQzYyEVz/?spm_id_from=333.1387.favlist.content.click&vd_source=cae5be50cf165d6b7a9ca9bf393cb773)
+
+
+
+头发:Messy Curly
 
 
 
