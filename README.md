@@ -54,7 +54,7 @@ https://github.com/k2-fsa/sherpa-onnx
 
 ​		[Kokoro — sherpa 1.3 documentation](https://k2-fsa.github.io/sherpa/onnx/tts/pretrained_models/kokoro.html#kokoro-multi-lang-v1-0-chinese-english-53-speakers)
 
-![图片描述](D:/Project/Work/Unity-DigitalHuman-Doc/image/image-20260602200858190.png)
+![图片描述](D:/Project/Work/Unity-DigitalHuman-Doc/image/image-20260602200858190.jpg)
 
  
 
