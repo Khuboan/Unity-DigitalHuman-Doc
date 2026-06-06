@@ -126,7 +126,7 @@ https://cloud.siliconflow.cn/i/psmQ8Adt
 
 #### 	3.口型设置
 
-![ScreenShot_2026-06-02_211523_851](D:/Project/Work/Unity-DigitalHuman-Doc/image/ScreenShot_2026-06-02_211523_851.png)
+![ScreenShot_2026-06-02_211523_851](image/ScreenShot_2026-06-02_211523_851.png)
 
 
 
@@ -164,9 +164,9 @@ https://cloud.siliconflow.cn/i/psmQ8Adt
 
 ##### 	2.1 CC5导出设置
 
-<img src="D:/Project/Work/Unity-DigitalHuman-Doc/image/ScreenShot_2026-06-02_223009_163.png" alt="ScreenShot_2026-06-02_223009_163" style="zoom:50%;" />
+<img src="image/ScreenShot_2026-06-02_223009_163.png" alt="ScreenShot_2026-06-02_223009_163" style="zoom:50%;" />
 
-<img src="D:/Project/Work/Unity-DigitalHuman-Doc/image/ScreenShot_2026-06-02_223113_689.png" alt="ScreenShot_2026-06-02_223113_689" style="zoom:50%;" />
+<img src="image/ScreenShot_2026-06-02_223113_689.png" alt="ScreenShot_2026-06-02_223113_689" style="zoom:50%;" />
 
 
 
@@ -176,7 +176,7 @@ https://cloud.siliconflow.cn/i/psmQ8Adt
 
 
 
-![ScreenShot_2026-06-02_224707_049](D:/Project/Work/Unity-DigitalHuman-Doc/image/ScreenShot_2026-06-02_224707_049.png)
+![ScreenShot_2026-06-02_224707_049](image/ScreenShot_2026-06-02_224707_049.png)
 
 
 
@@ -200,7 +200,7 @@ https://cloud.siliconflow.cn/i/psmQ8Adt
 
 ##### 2.4 CC5 To Unity 口型设置
 
-![CCtoUnityBlendShape](D:/Project/Work/Unity-DigitalHuman-Doc/image/CCtoUnityBlendShape.png)
+![CCtoUnityBlendShape](image/CCtoUnityBlendShape.png)
 
 
 
